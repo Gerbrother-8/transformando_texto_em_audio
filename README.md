@@ -1,4 +1,6 @@
-# Conversor de Texto em Áudio com Python e gTTS 🎙️
+# Conversor de Texto em Áudio com Python e gTTS 
+
+https://colab.research.google.com/drive/1aPcXFun-4HG5oXzJREsq6B8vt-bEg5Rk?usp=sharing
 
 Este projeto foi desenvolvido como parte do módulo **"Os Pilares Formais da IA: do Machine Learning à IA Generativa"** do bootcamp **Bradesco - GenAI & Dados** na plataforma DIO. O objetivo é demonstrar a aplicação prática de bibliotecas de síntese de voz (Text-to-Speech) de forma simples e eficiente.
 
